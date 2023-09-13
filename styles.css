@@ -1,0 +1,69 @@
+body{
+   background-color: rgb(38, 241, 241);
+}
+h1{
+   text-align: center;
+}
+.DatosPersonales{
+   padding-left: 10px;
+   padding-top: 10px;
+   margin-left: 57px;
+   float: left;
+   position: relative;
+   width: 45%;
+   border: steelblue solid 5px;
+   height: auto;
+}
+.Estudios_realizados{
+   padding-top: 10px;
+   padding-left: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   position: relative;
+   float: left;
+   width: 45%;
+   border: steelblue solid 5px;
+   height: auto;
+ }
+ .ExperienciaLaboral{
+   padding-left: 10px;
+   padding-top: 10px;
+   margin-left: 10px;
+   float: left;
+   position: relative;
+   width: 45%;
+   border: steelblue solid 5px;
+   height: auto;
+}
+.Capacitaciones{
+   font-style: italic;
+   padding-left: 10px;
+   padding-top: 10px;
+   margin-left: 57px;
+   float: left;
+   position: relative;
+   width: 45%;
+   border: steelblue solid 5px;
+   height: auto;
+}
+table {
+    margin-top: 475px;
+    width: 100%;
+    border: 1px solid #000;
+ }
+
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+ }
+ img {
+   padding-right: 25px;
+   padding-bottom: 25px;
+   float: right;
+   width: 20%;
+   height: auto;
+   position: relative; 
+  }
